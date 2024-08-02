@@ -47,3 +47,10 @@ https://github.com/SebastianGalan76/Multiplication-Math-Games
 • <b>DEpicShop</b> - https://github.com/SebastianGalan76/DEpicShop <br>
 <br><br>
 
+<h2>🗠 Statystyki</h2>
+<div align="center">
+
+![SebastianGalan76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGalan76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) <br>
+  ![SebastianGalan76's Stats](https://github-readme-stats.vercel.app/api?username=SebastianGalan76&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
+
+</div>
