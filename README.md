@@ -20,6 +20,9 @@ Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier
 • <b>JoinGameDev.pl</b> - Portal do zamieszczania ogłoszeń o pracę w branży gier<br>
 https://github.com/SebastianGalan76/JobOffersPortal
 <br>
+• <b>MC-List.pl</b> - Lista serwerów gier minecraft<br>
+https://github.com/SebastianGalan76/MCList
+<br>
 
 <h3>Aplikacje mobilne</h3>
 <i>Java, SQLite, Firebase</i><br>
