@@ -15,6 +15,12 @@ Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier
 • <b>Narzędzia i technologie</b>: [Git, pgAdmin, Unity3d, IntelliJ, Visual Studio]<br>
 
 <h2>🚀 Moje Projekty:</h2>
+<h3>Obecnie rozwijam</h3>
+<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
+• <b>Backend aplikacji z dowcipami [Podczas rozwoju]<br>
+https://github.com/SebastianGalan76/JokeAppBackend/tree/develop
+<br>
+
 <h3>Aplikacje internetowe</h3>
 <i>Java, Spring Boot, Hibernate, PostgreSQL, REST, JavaScrip, HTML, SCSS</i><br>
 • <b>JoinGameDev.pl</b> - Portal do zamieszczania ogłoszeń o pracę w branży gier<br>
