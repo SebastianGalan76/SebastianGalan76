@@ -17,12 +17,12 @@ Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier
 <h2>🚀 Moje Projekty:</h2>
 <h3>Obecnie rozwijam</h3>
 <i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
-• <b>Backend aplikacji z dowcipami [Podczas rozwoju]<br>
-https://github.com/SebastianGalan76/JokeAppBackend/tree/develop
+• <b>Backend aplikacji z dowcipami<br>
+https://github.com/SebastianGalan76/JokeAppBackend
 <br>
 <i>HTML, SCSS, Angular, TypeScript</i> <br>
-• <b>Frontend aplikacji z dowcipami [Podczas rozwoju]<br>
-https://github.com/SebastianGalan76/JokeAppFrontend/tree/develop
+• <b>Frontend aplikacji z dowcipami<br>
+https://github.com/SebastianGalan76/JokeAppFrontend
 <br>
 
 <h3>Aplikacje internetowe</h3>
