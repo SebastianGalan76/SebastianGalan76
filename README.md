@@ -9,38 +9,37 @@ Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier
 • <b>Frontend</b>: Równocześnie zgłębiam tajniki frontendu, aby móc tworzyć kompleksowe i interaktywne aplikacje webowe.
 
 <h2>🛠️ Moje Umiejętności</h2>
-• <b>Języki programowania</b>: [C#, Java, JavaScript] <br>
+• <b>Języki programowania</b>: [C#, Java, JavaScript, TypeScript] <br>
 • <b>Frameworki i biblioteki</b>: [Spring Boot, Hibernate, Angular]<br>
 • <b>Bazy danych</b>: [MySQL, PostgreSQL]<br>
-• <b>Narzędzia i technologie</b>: [Git, pgAdmin, Unity3d, IntelliJ, Visual Studio]<br>
+• <b>Narzędzia i technologie</b>: [Git, pgAdmin, Unity3d, IntelliJ, Visual Studio, Postman]<br>
 
 <h2>🚀 Moje Projekty:</h2>
-<h3>Obecnie rozwijam</h3>
+
+<h3>🟩 Aplikacje internetowe:</h3>
+<h2><a href="https://mc-list.pl/">MC-List.pl</a></h2>
 <i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
-• <b>Backend aplikacji z dowcipami<br>
-https://github.com/SebastianGalan76/JokeAppBackend
-<br>
+• <b>Backend:</b> https://github.com/SebastianGalan76/MC-List-Backend<br>
 <i>HTML, SCSS, Angular, TypeScript</i> <br>
-• <b>Frontend aplikacji z dowcipami<br>
-https://github.com/SebastianGalan76/JokeAppFrontend
+• <b>Frontend:</b> https://github.com/SebastianGalan76/MC-List-Frontend<br>
 <br>
+<h2><a href="https://dawkasmiechu.pl/">DawkaSmiechu.pl</a></h2>
+<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
+• <b>Backend:</b> https://github.com/SebastianGalan76/JokeAppBackend<br>
+<i>HTML, SCSS, Angular, TypeScript</i> <br>
+• <b>Frontend:</b> https://github.com/SebastianGalan76/JokeAppFrontend<br>
+<br>
+<h2><a href="https://joingamedev.pl/">JoinGameDev.pl</a></h2>
+<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, HTML, SCSS, JavaScript</i> <br>
+• <b>Repozytorium:</b> [https://github.com/SebastianGalan76/JokeAppBackend](https://github.com/SebastianGalan76/JobOffersPortal)<br>
 
-<h3>Aplikacje internetowe</h3>
-<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, JavaScrip, HTML, SCSS</i><br>
-• <b>JoinGameDev.pl</b> - Portal do zamieszczania ogłoszeń o pracę w branży gier<br>
-https://github.com/SebastianGalan76/JobOffersPortal
-<br>
-• <b>MC-List.pl</b> - Lista serwerów gier minecraft<br>
-https://github.com/SebastianGalan76/MCList
-<br>
-
-<h3>Aplikacje mobilne</h3>
+<h3>🟩 Aplikacje mobilne:</h3>
 <i>Java, SQLite, Firebase</i><br>
 • <b>Multiplication Math Games</b> - Aplikacja mobilna do nauki tabliczki mnożenia<br>
 https://github.com/SebastianGalan76/Multiplication-Math-Games
 <br>
 
-<h3>Gry</h3>
+<h3>🟩 Gry:</h3>
 <i>C#, Unity3D, Visual Studio</i><br>
 • <b>Slide Block</b> - https://github.com/SebastianGalan76/Slide-Block <br>
 • <b>Rocket Jump</b> - https://github.com/SebastianGalan76/Rocket-Jump <br>
@@ -49,7 +48,7 @@ https://github.com/SebastianGalan76/Multiplication-Math-Games
 • <b>Deadzone Defence (Prototyp)</b> - https://github.com/SebastianGalan76/DeadzoneDefence
 <br>
 
-<h3>Pluginy minecraft</h3>
+<h3>🟩 Pluginy minecraft:</h3>
 <i>Java</i><br>
 • <b>DreamLib</b> - https://github.com/SebastianGalan76/DreamLib <br>
 • <b>DKit</b> - https://github.com/SebastianGalan76/DKit <br>
