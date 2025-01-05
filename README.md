@@ -16,30 +16,39 @@ Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier
 
 <h2>🚀 Moje Projekty:</h2>
 
-<h3>🟩 Aplikacje internetowe:</h3>
+<br>
+<div align="center">
+  <h3>🟩 Aplikacje internetowe 🟩</h3>
+</div>
 <h2><a href="https://mc-list.pl/">MC-List.pl</a></h2>
 <i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
 • <b>Backend:</b> https://github.com/SebastianGalan76/MC-List-Backend<br>
-<i>HTML, SCSS, Angular, TypeScript</i> <br>
+<i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
 • <b>Frontend:</b> https://github.com/SebastianGalan76/MC-List-Frontend<br>
 <br>
 <h2><a href="https://dawkasmiechu.pl/">DawkaSmiechu.pl</a></h2>
 <i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
 • <b>Backend:</b> https://github.com/SebastianGalan76/JokeAppBackend<br>
-<i>HTML, SCSS, Angular, TypeScript</i> <br>
+<i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
 • <b>Frontend:</b> https://github.com/SebastianGalan76/JokeAppFrontend<br>
 <br>
 <h2><a href="https://joingamedev.pl/">JoinGameDev.pl</a></h2>
 <i>Java, Spring Boot, Hibernate, PostgreSQL, REST, HTML, SCSS, JavaScript</i> <br>
-• <b>Repozytorium:</b> [https://github.com/SebastianGalan76/JokeAppBackend](https://github.com/SebastianGalan76/JobOffersPortal)<br>
+• <b>Repozytorium:</b> https://github.com/SebastianGalan76/JobOffersPortal<br>
 
-<h3>🟩 Aplikacje mobilne:</h3>
+<br>
+<div align="center">
+  <h3>🟩 Aplikacje mobilne 🟩</h3>
+</div>
 <i>Java, SQLite, Firebase</i><br>
 • <b>Multiplication Math Games</b> - Aplikacja mobilna do nauki tabliczki mnożenia<br>
 https://github.com/SebastianGalan76/Multiplication-Math-Games
 <br>
 
-<h3>🟩 Gry:</h3>
+<br>
+<div align="center">
+  <h3>🟩 Gry 🟩</h3>
+</div>
 <i>C#, Unity3D, Visual Studio</i><br>
 • <b>Slide Block</b> - https://github.com/SebastianGalan76/Slide-Block <br>
 • <b>Rocket Jump</b> - https://github.com/SebastianGalan76/Rocket-Jump <br>
@@ -48,7 +57,10 @@ https://github.com/SebastianGalan76/Multiplication-Math-Games
 • <b>Deadzone Defence (Prototyp)</b> - https://github.com/SebastianGalan76/DeadzoneDefence
 <br>
 
-<h3>🟩 Pluginy minecraft:</h3>
+<br>
+<div align="center">
+  <h3>🟩 Pluginy minecraft 🟩</h3>
+</div>
 <i>Java</i><br>
 • <b>DreamLib</b> - https://github.com/SebastianGalan76/DreamLib <br>
 • <b>DKit</b> - https://github.com/SebastianGalan76/DKit <br>
