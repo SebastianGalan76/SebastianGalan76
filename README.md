@@ -1,18 +1,18 @@
 ![Untitled](https://github.com/user-attachments/assets/a4397597-1eb2-4c08-b13f-e7773c077177)
 👋 Cześć, jestem <b>Sebastian</b>!<br>
-Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier oraz aplikacji mobilnych. Uwielbiam stawiać sobie nowe wyzwania i poznawać nowe technologie. Obecnie rozwijam swoje umiejętności tworzenia aplikacji internetowych
+Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier, aplikacji mobilnych oraz aplikacji internetowych. Uwielbiam stawiać sobie nowe wyzwania i poznawać nowe technologie. Obecnie głównie rozwijam swoje umiejętności tworzenia aplikacji internetowych.
 
 <h2>🧠 Moje główne obszary zainteresowań to:</h2>
+• <b>Backend</b>: Tworze aplikacje backendowe przy użyciu języka Java oraz frameworka Spring Boot, co pozwala mi poznać zasady budowy serwisów RESTful oraz ich integracji z bazami danych. <br>
+• <b>Frontend</b>: Wykorzystując Angular oraz TypeScript, buduje nowoczesne interfejsy użytkownika, które zapewniają responsywne i interaktywne doświadczenie. Dzięki pracy nad projektami frontendowymi rozwijam umiejętności związane z tworzeniem komponentów, zarządzaniem stanem aplikacji oraz integracją z backendem poprzez API.
 • <b>Tworzenie gier</b>: Pracowałem nad kilkoma projektami gier w Unity3D, gdzie mogłem wykorzystać swoją kreatywność i umiejętności programowania w języku C#. <br>
 • <b>Aplikacje mobilne</b>: Opracowałem aplikację mobilną, która pomogła mi zrozumieć specyfikę projektowania i wdrażania rozwiązań na platformach mobilnych oraz mogłem lepiej poznać środowisku Android Studio. <br>
-• <b>Backend</b>: Obecnie uczę się backendu w Javie, aby poszerzyć swoje umiejętności w zakresie zarządzania serwerami i bazami danych. <br>
-• <b>Frontend</b>: Równocześnie zgłębiam tajniki frontendu, aby móc tworzyć kompleksowe i interaktywne aplikacje webowe.
 
 <h2>🛠️ Moje Umiejętności</h2>
-• <b>Języki programowania</b>: [C#, Java, JavaScript, TypeScript] <br>
-• <b>Frameworki i biblioteki</b>: [Spring Boot, Hibernate, Angular]<br>
-• <b>Bazy danych</b>: [MySQL, PostgreSQL]<br>
-• <b>Narzędzia i technologie</b>: [Git, pgAdmin, Unity3d, IntelliJ, Visual Studio, Postman]<br>
+• <b>Języki programowania</b>: Java, C#, JavaScript, TypeScript <br>
+• <b>Frameworki i biblioteki</b>: Spring Boot, Hibernate, Angular<br>
+• <b>Bazy danych</b>: MySQL, PostgreSQL<br>
+• <b>Narzędzia i technologie</b>: Git, pgAdmin, Unity3d, IntelliJ, Visual Studio, Postman, Jenkins<br>
 
 <h2>🚀 Moje Projekty:</h2>
 
@@ -20,8 +20,14 @@ Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier
 <div align="center">
   <h3>🟩 Aplikacje internetowe 🟩</h3>
 </div>
+<h2>MemApp [Obecnie rozwijam]</h2>
+<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito, Jenkins</i> <br>
+• <b>Backend:</b> https://github.com/SebastianGalan76/MemApp-Backend<br>
+<i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
+• <b>Frontend:</b> https://github.com/SebastianGalan76/MemApp-Frontend<br>
+<br>
 <h2><a href="https://mc-list.pl/">MC-List.pl</a></h2>
-<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
+<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito</i> <br>
 • <b>Backend:</b> https://github.com/SebastianGalan76/MC-List-Backend<br>
 <i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
 • <b>Frontend:</b> https://github.com/SebastianGalan76/MC-List-Frontend<br>
