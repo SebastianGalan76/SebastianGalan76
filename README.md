@@ -1,73 +1,112 @@
-![Untitled](https://github.com/user-attachments/assets/a4397597-1eb2-4c08-b13f-e7773c077177)
-👋 Cześć, jestem <b>Sebastian</b>!<br>
-Jestem pasjonatem technologii i programowania z doświadczeniem w tworzeniu gier, aplikacji mobilnych oraz aplikacji internetowych. Uwielbiam stawiać sobie nowe wyzwania i poznawać nowe technologie. Obecnie głównie rozwijam swoje umiejętności tworzenia aplikacji internetowych.
+![1738142149528](https://github.com/user-attachments/assets/fde24a19-9486-4f60-9014-a53f954f5970)
 
-<h2>🧠 Moje główne obszary zainteresowań to:</h2>
-• <b>Backend</b>: Tworze aplikacje backendowe przy użyciu języka Java oraz frameworka Spring Boot, co pozwala mi poznać zasady budowy serwisów RESTful oraz ich integracji z bazami danych. <br>
-• <b>Frontend</b>: Wykorzystując Angular oraz TypeScript, buduje nowoczesne interfejsy użytkownika, które zapewniają responsywne i interaktywne doświadczenie. Dzięki pracy nad projektami frontendowymi rozwijam umiejętności związane z tworzeniem komponentów, zarządzaniem stanem aplikacji oraz integracją z backendem poprzez API.
-• <b>Tworzenie gier</b>: Pracowałem nad kilkoma projektami gier w Unity3D, gdzie mogłem wykorzystać swoją kreatywność i umiejętności programowania w języku C#. <br>
-• <b>Aplikacje mobilne</b>: Opracowałem aplikację mobilną, która pomogła mi zrozumieć specyfikę projektowania i wdrażania rozwiązań na platformach mobilnych oraz mogłem lepiej poznać środowisku Android Studio. <br>
 
-<h2>🛠️ Moje Umiejętności</h2>
-• <b>Języki programowania</b>: Java, C#, JavaScript, TypeScript <br>
-• <b>Frameworki i biblioteki</b>: Spring Boot, Hibernate, Angular<br>
-• <b>Bazy danych</b>: MySQL, PostgreSQL<br>
-• <b>Narzędzia i technologie</b>: Git, pgAdmin, Unity3d, IntelliJ, Visual Studio, Postman, Jenkins<br>
 
-<h2>🚀 Moje Projekty:</h2>
+
+<h2>🙋 Profile</h2>
+👋 Hi, I am <b>Sebastian</b>,<br>
+• Junior Fullstack Developer with experience in developing web applications using Java (Spring Boot) and Angular. I specialize in building REST APIs, integrating with external APIs, managing databases (PostgreSQL), and implementing dynamic and responsive user interfaces.
+<br><br>
+• I am motivated to continuously develop my technical skills and collaborate within a team, contributing to projects that deliver real value to users.
+
+<div align="center">
+  
+• [My website](https://sgalan.pl/)
+• [LinkedIn](https://www.linkedin.com/in/galan-sebastian/)
+• [CV](https://www.sgalan.pl/cv/en/Sebastian%20Ga%C5%82an%20-%20CV.pdf)
+•
+
+</div>
+
+<h2>🛠️ Skills</h2>
+
+###### Languages & Syntax:
+
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,cs,html,css,scss)](https://skillicons.dev) <br>
+
+###### Frameworks & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,angular)](https://skillicons.dev) <br>
+
+###### Database
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev) <br>
+
+###### Tools and technologies
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,git,jenkins,maven,gradle,figma,androidstudio,visualstudio,unity)](https://skillicons.dev) <br>
+
+<h2>🚀 My projects:</h2>
 
 <br>
 <div align="center">
-  <h3>🟩 Aplikacje internetowe 🟩</h3>
+  <h3>🟩 Websites 🟩</h3>
 </div>
-<h2>MemApp [Obecnie rozwijam]</h2>
-<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito, Jenkins</i> <br>
+<h2>1. MemApp [During development]</h2>
+
+###### Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito, Jenkins
 • <b>Backend:</b> https://github.com/SebastianGalan76/MemApp-Backend<br>
-<i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
+###### Angular, HTML, SCSS, TypeScript, RxJS
 • <b>Frontend:</b> https://github.com/SebastianGalan76/MemApp-Frontend<br>
 <br>
-<h2><a href="https://mc-list.pl/">MC-List.pl</a></h2>
-<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito</i> <br>
+
+<h2>2. <a href="https://mc-list.pl/">MC-List.pl</a></h2>
+
+###### Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito
 • <b>Backend:</b> https://github.com/SebastianGalan76/MC-List-Backend<br>
-<i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
+
+###### Angular, HTML, SCSS, TypeScript, RxJS
 • <b>Frontend:</b> https://github.com/SebastianGalan76/MC-List-Frontend<br>
 <br>
-<h2><a href="https://dawkasmiechu.pl/">DawkaSmiechu.pl</a></h2>
-<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit</i> <br>
+
+<h2>3. <a href="https://dawkasmiechu.pl/">DawkaSmiechu.pl</a></h2>
+
+###### Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit
 • <b>Backend:</b> https://github.com/SebastianGalan76/JokeAppBackend<br>
-<i>Angular, HTML, SCSS, TypeScript, RxJS</i> <br>
+
+###### Angular, HTML, SCSS, TypeScript, RxJS
 • <b>Frontend:</b> https://github.com/SebastianGalan76/JokeAppFrontend<br>
-<br>
-<h2><a href="https://joingamedev.pl/">JoinGameDev.pl</a></h2>
-<i>Java, Spring Boot, Hibernate, PostgreSQL, REST, HTML, SCSS, JavaScript</i> <br>
-• <b>Repozytorium:</b> https://github.com/SebastianGalan76/JobOffersPortal<br>
 
 <br>
+<h2>4. <a href="https://sgalan.pl/">Portfolio</a></h2>
+
+###### Angular, TypeScript, HTML, SCSS
+• <b>Repository:</b> https://github.com/SebastianGalan76/Portfolio2025<br>
+<br>
+<h2>5. <a href="https://joingamedev.pl/">JoinGameDev.pl</a></h2>
+
+###### Java, Spring Boot, Hibernate, PostgreSQL, REST, HTML, SCSS, JavaScript
+• <b>Repository:</b> https://github.com/SebastianGalan76/JobOffersPortal<br>
+
+<br><br>
 <div align="center">
-  <h3>🟩 Aplikacje mobilne 🟩</h3>
+  <h3>🟩 Mobile app 🟩</h3>
 </div>
-<i>Java, SQLite, Firebase</i><br>
+
+###### Java, SQLite, Firebase
 • <b>Multiplication Math Games</b> - Aplikacja mobilna do nauki tabliczki mnożenia<br>
 https://github.com/SebastianGalan76/Multiplication-Math-Games
 <br>
 
-<br>
+<br><br>
 <div align="center">
-  <h3>🟩 Gry 🟩</h3>
+  <h3>🟩 Games 🟩</h3>
 </div>
-<i>C#, Unity3D, Visual Studio</i><br>
+
+###### C#, Unity3D, Visual Studio
 • <b>Slide Block</b> - https://github.com/SebastianGalan76/Slide-Block <br>
 • <b>Rocket Jump</b> - https://github.com/SebastianGalan76/Rocket-Jump <br>
 • <b>Endless Path</b> - https://github.com/SebastianGalan76/EndlessPath <br>
 • <b>Fill Fields</b> - https://github.com/SebastianGalan76/FillFields <br>
-• <b>Deadzone Defence (Prototyp)</b> - https://github.com/SebastianGalan76/DeadzoneDefence
+• <b>Deadzone Defence (Prototype)</b> - https://github.com/SebastianGalan76/DeadzoneDefence
 <br>
 
-<br>
+<br><br>
 <div align="center">
-  <h3>🟩 Pluginy minecraft 🟩</h3>
+  <h3>🟩 Minecraft plugins 🟩</h3>
 </div>
-<i>Java</i><br>
+
+###### Java, Spigot
 • <b>DreamLib</b> - https://github.com/SebastianGalan76/DreamLib <br>
 • <b>DKit</b> - https://github.com/SebastianGalan76/DKit <br>
 • <b>DExpManager</b> - https://github.com/SebastianGalan76/DExpManager <br>
@@ -77,7 +116,7 @@ https://github.com/SebastianGalan76/Multiplication-Math-Games
 • <b>DEpicShop</b> - https://github.com/SebastianGalan76/DEpicShop <br>
 <br><br>
 
-<h2>🗠 Statystyki</h2>
+<h2>🗠 GitHub Statistics</h2>
 <div align="center">
 
 ![SebastianGalan76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGalan76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) <br>
