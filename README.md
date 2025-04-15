@@ -45,9 +45,7 @@
 <h2>1. MemApp [During development]</h2>
 
 ###### Java, Spring Boot, Hibernate, PostgreSQL, REST, jUnit, Mockito, Jenkins
-• <b>Backend:</b> https://github.com/SebastianGalan76/MemApp-Backend<br>
 ###### Angular, HTML, SCSS, TypeScript, RxJS
-• <b>Frontend:</b> https://github.com/SebastianGalan76/MemApp-Frontend<br>
 <br>
 
 <h2>2. <a href="https://mc-list.pl/">MC-List.pl</a></h2>
